@@ -3,6 +3,7 @@ html,body{
     padding:0;
     margin: 0 auto;
 box-sizing: content-box;
+background-attachment:fixed;
 }
 
 #nav nav a{
@@ -51,11 +52,9 @@ float:right;
 position:absolute;
 padding-left:170px;
 border-top: 760px solid purple;
-border-bottom: 62px solid purple;
 box-sizing: content-box;
 
   border-left: 140px solid transparent;
-  height: 100px;
   opacity:.6;
   width: 62px;
    vertical-align:20px;
