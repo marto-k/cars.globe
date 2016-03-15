@@ -99,6 +99,13 @@ border-right: 650px solid transparent;
 	border-right: 250px solid transparent;
 	opacity:0.6;
 }
+#triangle-bottomleft {
+	width: 0;
+	height: 0;
+	border-bottom: 100px solid purple;
+	border-right: 100px solid transparent;
+	opacity:0.6;
+}
 #information{
   
 }
