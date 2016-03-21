@@ -200,17 +200,7 @@ transform: skewX(0deg);
   text-transform: uppercase;
 } 
 
-#content:after { 
-content: "";
-position: absolute;
-left: 10px;
-top: 0px;
-width: 0;
-height: 502px;
-border-top: 180px solid #eee;
-border-left: 650px solid transparent;
-border-right: 650px solid transparent;
-}
+
 #triangle-topleft {
 	width: 0;
 	height: 0;
